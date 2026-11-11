@@ -3,7 +3,7 @@
   'use strict';
 
   // Current Google Apps Script deployment URL
-  var API_URL = 'https://script.google.com/macros/s/AKfycbxCWcEmj6tYMZRx0DVgE3LhtMsoE3j0gKEluoQkTTYI51GJZ9pZPk2y8ju0QMb4D7JZBg/exec';
+  var API_URL = 'https://script.google.com/macros/s/AKfycbzfVRLq6WZesEMfY-ZGajId6kyfRIHv0eBsGuXcBvpbUvB01FaUUdjlqrz1eS_9c2cx/exec';
   var STORAGE_KEY = 'blogger_theme_license_key_v1';
   var verified = false, checking = false, initialized = false;
 
